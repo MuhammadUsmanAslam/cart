@@ -1,0 +1,21 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.app {
+	background-color: grey;
+	width: 100vw;
+	min-width: 890px;
+	height: 100vh;
+	overflow-y: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h3,
+.button {
+	text-transform: capitalize;
+}
