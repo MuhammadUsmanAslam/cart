@@ -9,7 +9,7 @@ function Cart() {
 				"https://www.writersdigest.com/.image/t_share/MTcxMDY0NzcxMzIzNTY5NDEz/image-placeholder-title.jpg",
 			title: "Rework",
 			description:
-				"Lorem ipsum dolor sit amet elit. Lorem ipsum dolor sit ametconsectetur adipisicing elit.",
+				"Lorem ipsum dolor sit amet elit sit ipsum. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
 			price: 15,
 			quantity: 8,
 		},
@@ -18,7 +18,7 @@ function Cart() {
 				"https://assets.visme.co/templates/banners/thumbnails/i_Bedtime-Story-Book-Cover_full.jpg",
 			title: "Getting real",
 			description:
-				"Lorem ipsum dolor sit amet elit. Lorem ipsum dolor sit ametconsectetur adipisicing elit.",
+				"Lorem ipsum dolor sit amet elit sit. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
 			price: 25,
 			quantity: 5,
 		},

@@ -11,6 +11,7 @@ function Product({ product, setProducts, products, index }) {
 					<p className="product__paragraph">{product.description}</p>
 				</div>
 			</div>
+
 			<div className="product__right">
 				<input
 					className="product__input"
@@ -27,7 +28,7 @@ function Product({ product, setProducts, products, index }) {
 				<h4>{`$${product.price}`}</h4>
 				<h4>{`$${product.quantity * product.price}`}</h4>
 				<button
-					className="button"
+					className="button product__button"
 					onClick={() => {
 						setProducts(
 							products.filter((p, ind) => {
